@@ -10,4 +10,3 @@ Alternatively, use the CLI wrapper by compiling and running the MatrixCalculator
   javac MatrixCalculator.java Matrix.java
   java MatrixCalculator
   ```
-```
